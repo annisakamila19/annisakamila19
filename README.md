@@ -71,11 +71,11 @@
        <!-- Pesan -->
        <p id="pesan3">I hope you all the best❤️</p>
        <p id="pesan4">Apapun yang kamu inginkan semoga terwujud satu persatu, Bismillah ya :)</p>
-       <p id="pesan5" class="gaya2">Nambah tua aja ya, hehe</p>
+       <p id="pesan5" class="gaya2">Stay safe, stay healthy, tetap menjadi orang baik yang aku kenal, okay? </p>
        <p id="pesan6" class="gaya2">Moga panjang umur biar tiap tahun bisa traktirin aku wkwk 😆❤️</p>
        <p id="pesan7" class="gaya2">Sehat selalu ya!</p>
 
-       <p id="pesan8" class="gaya2">Canda wkwwk :v</p>
+       <p id="pesan8" class="gaya2">Love you, always</p>
        <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesialmu ini kamu dapat menjadi pribadi yang lebih baik yaa.. 🥳❤️</p>
        <p id="pesan10" class="gaya2">Happy Level Up Day!! 🥳</p>
 
@@ -116,12 +116,12 @@
   }
 
   //Variable Pertanyaan Akhir
-  var tanya = 'Mau Kado Gak Nih? 😶❤️';
-  var opstanya = 'Ayo jawab 😆';
-  var tompositif = 'Mau';
-  var tomnegatif = 'Engga';
+  var tanya = 'Do you want a gift? 😶❤️';
+  var opstanya = 'Please answer😆';
+  var tompositif = 'Yes';
+  var tomnegatif = 'Also yes';
     
-    async function menuju(){pesanwhatsapp = "Makasii udah ngucapin " + nama + " ultah ><";await swals.fire('OK!', 'Kirim jawabannya ke WhatsApp aku, ya!', 'success');window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
+    async function menuju(){pesanwhatsapp = "Proud to yourself " + nama + " ultah ><";await swals.fire('OK!', 'Kirim jawabannya ke WhatsApp aku, ya!', 'success');window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
 </script>
 <script src="https://malasid.github.io/html/hbd.js"></script>
 <!-- Sampai Sini -->
